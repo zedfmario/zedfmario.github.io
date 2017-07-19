@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>zedfmario :: software architect</title>
+</head>
+<body>
+	<code>
+	case class Web(name: String, version: String)
+	lazy val website: Option[Web] = None
+	def websiteOnline: String = website match {
+		case Some(w) => "Welcome to ${w.name} - version ${w.version}!"
+		case _ => "Under construction ... "
+	}
+
+	println(websiteOnlne)
+	</code>
+</body>
+</html>
