@@ -2,4 +2,4 @@
 
 
 ## Author
-Mario Fernández - zedfmario
+Mario Fernández - @[zedfmario](https://github.com/zedfmario)
