@@ -4,4 +4,4 @@ Under construction
 
 
 ## Author
-Mario Fernández Martnez - @[zedfmario](https://github.com/zedfmario)
+Mario Fernández Martínez - @[zedfmario](https://github.com/zedfmario)
