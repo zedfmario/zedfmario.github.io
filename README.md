@@ -1,4 +1,4 @@
-# zedfmario's personal website
+# zedfmario's site
 
 Under construction
 
