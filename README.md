@@ -1,6 +1,6 @@
 # zedfmario's site
 
-Senior Big Data Engineer @ [Geoblink](www.geoblink.com)
+Senior Big Data Engineer @ [MyTraffic](https://www.mytraffic.io/) / [Geoblink](https://www.geoblink.com/)
 
 
 ## Author
